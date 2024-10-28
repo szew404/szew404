@@ -1,4 +1,4 @@
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=gidaszewski" alt="" /> ![GitHub followers](https://img.shields.io/github/followers/gidaszewski) ![GitHub User's stars](https://img.shields.io/github/stars/gidaszewski)
+### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=szew404" alt="" /> ![GitHub followers](https://img.shields.io/github/followers/szew404) ![GitHub User's stars](https://img.shields.io/github/stars/szew404)
 
 As a seasoned backend developer with experience in web development, I excel in crafting bespoke solutions that empower clients to optimize productivity and streamline operations. Specializing in Python, I am driven by a passion for leveraging cutting-edge technology to deliver tailored software solutions that address the unique needs of businesses.
 
