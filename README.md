@@ -13,17 +13,17 @@ As a seasoned backend developer with experience in web development, I excel in c
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gidaszewski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="gidaszewski" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=szew404&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="szew404" />
 </details>
 
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gidaszewski&theme=vue-dark&hide_border=true" alt="gidaszewski" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=szew404&theme=vue-dark&hide_border=true" alt="szew404" /></p>
 </details>
 
 <details>
  <summary><b>🏆 Github Most Used Languages</b></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gidaszewski&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="gidaszewski" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szew404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="szew404" /></a> </p>
 </details>
 
 <details>
