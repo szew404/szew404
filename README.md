@@ -1,13 +1,6 @@
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=szew404" alt="" /> ![GitHub followers](https://img.shields.io/github/followers/szew404) ![GitHub User's stars](https://img.shields.io/github/stars/szew404)
 
-As a seasoned backend developer with experience in web development, I excel in crafting bespoke solutions that empower clients to optimize productivity and streamline operations. Specializing in Python, I am driven by a passion for leveraging cutting-edge technology to deliver tailored software solutions that address the unique needs of businesses.
-
-### More about me:
-
-- Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- Open for collaborations in web development.
-- I love exploring new tech stack and building cool stuffs. 
-
+Driven Backend Developer with 2+ years of experience in designing and developing APIs and web applications. Skilled in Python and modern backend frameworks, with a proven track record of delivering tailored software solutions that drive user engagement and productivity. Seeking a full-time role in Berlin to contribute to innovative backend projects with a focus on cutting-edge technology and scalable architecture.
 
 ### Github Info
 <details>	
