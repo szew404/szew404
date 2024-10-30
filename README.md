@@ -5,12 +5,8 @@ Driven Backend Developer with 2+ years of experience in designing and developing
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=szew404&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Github Info
-#### Github Most Used Languages
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szew404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="szew404" /></a> </p>
-
-#### Github Streaks
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=szew404&theme=vue-dark&hide_border=true" alt="szew404" /></p>
+<div display="flex" flex-direction="row">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szew404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="szew404" /></a> </p> <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=szew404&theme=vue-dark&hide_border=true" alt="szew404" /></p></div>
 
 <!--START_SECTION:waka-->
 
