@@ -3,7 +3,7 @@
 ### About me
 Driven Backend Developer with 2+ years of experience in designing and developing APIs and web applications. Skilled in Python and modern backend frameworks, with a proven track record of delivering tailored software solutions that drive user engagement and productivity. Seeking a full-time role in Berlin to contribute to innovative backend projects with a focus on cutting-edge technology and scalable architecture.
 
-[![Szew's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=szew404&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=szew404&theme=github-compact"/>
 
 
 <p align="left">
