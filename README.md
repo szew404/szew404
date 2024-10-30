@@ -7,7 +7,7 @@ Driven Backend Developer with 2+ years of experience in designing and developing
 
 
 <p align="left">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=szew404&theme=vue-dark&hide_border=true" alt="szew404" width="410"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=szew404&theme=vue-dark&hide_border=true" alt="szew404" width="412"/>
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szew404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="szew404" width="300" />
  </a>
