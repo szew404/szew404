@@ -13,7 +13,9 @@ Driven Backend Developer with 2+ years of experience in designing and developing
 }
 </style>
 
-<div class="stats">
+<div style="display: flex;
+    flex-direction: row;
+    gap: 10px;">
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szew404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="szew404" /></a> </p>
  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=szew404&theme=vue-dark&hide_border=true" alt="szew404" /></p>
 </div>
