@@ -1,4 +1,4 @@
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=szew404" alt="" /> ![GitHub followers](https://img.shields.io/github/followers/szew404) ![GitHub User's stars](https://img.shields.io/github/stars/szew404)
+### Hi there! &nbsp; <img src="https://komarev.com/ghpvc/?username=szew404" alt="" /> ![GitHub followers](https://img.shields.io/github/followers/szew404) ![GitHub User's stars](https://img.shields.io/github/stars/szew404)
 
 Driven Backend Developer with 2+ years of experience in designing and developing APIs and web applications. Skilled in Python and modern backend frameworks, with a proven track record of delivering tailored software solutions that drive user engagement and productivity. Seeking a full-time role in Berlin to contribute to innovative backend projects with a focus on cutting-edge technology and scalable architecture.
 
