@@ -13,7 +13,7 @@ Visit the [GitHub Repository](https://github.com/szew404/djpro). Learn how to us
 
 ---
 
-### Statics
+### Statistics
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szew404&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="szew404" height="123" />
  <img src="https://github-readme-stats.vercel.app/api?username=szew404&show_icons=true&theme=vue-dark&hide_border=true" height="123" />
