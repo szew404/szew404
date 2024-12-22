@@ -18,8 +18,8 @@ Visit the [GitHub Repository](https://github.com/szew404/djpro). Learn how to us
 - 🛠 **Automation processes**  
   Development and implementation of automated testing and deployment processes. Expertise in **GitHub Actions** and **Docker**.
 
-  - ⚙️ **Python Scripting**  
-  Designed and developed **Python scripts** for various tasks, maximizing system capacity with **multithreading** and **asynchronous processing** to ensure efficiency in handling large datasets.
+- ⚙️ **Python Scripting**  
+Designed and developed **Python scripts** for various tasks, maximizing system capacity with **multithreading** and **asynchronous processing** to ensure efficiency in handling large datasets.
 
 - ⚙️ **Web Development**  
   Developed and maintained scalable **Django** applications. Expertise in **RESTful API** development, server-side logic, and database management.
