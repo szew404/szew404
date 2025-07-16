@@ -15,14 +15,17 @@ Visit the [GitHub Repository](https://github.com/szew404/djpro). Learn how to us
 
 ### 🔧 Key Skills
 
-- 🛠 **Automation processes**  
-  Development and implementation of automated testing and deployment processes. Expertise in **GitHub Actions** and **Docker**.
+🛠 **Automation processes** 
+Led the implementation of CI/CD pipelines using GitHub Actions and Docker to streamline development workflows across multiple projects, including cloud-based deployments for large-scale events. Automated testing, deployment, and integration processes, significantly reducing manual errors and speeding up release cycles for Django and WordPress-based applications.
 
-- ⚙️ **Python Scripting**  
-Designed and developed **Python scripts** for various tasks, maximizing system capacity with **multithreading** and **asynchronous processing** to ensure efficiency in handling large datasets.
+🤖 **AI Integration**
+Built and integrated AI-powered agents to delegate repetitive tasks within backend systems, leveraging Python ecosystems. Proficient in working with ML models and tools such as PydanticAI to embed intelligent logic in APIs and services. Applied AI-driven solutions to optimize data processing and improve user interactions in real-time systems.
 
-- ⚙️ **Web Development**  
-  Developed and maintained scalable **Django** applications. Expertise in **RESTful API** development, server-side logic, and database management.
+📈 **Focus On Data**
+Designed and developed robust CMS platforms and APIs capable of managing large datasets efficiently. Employed multithreading and asynchronous programming techniques in Python to optimize performance and ensure responsiveness under high-load scenarios, such as handling thousands of user registrations and real-time data extraction from PDFs.
+
+⚙️ **Web Development**
+Developed full-stack web applications tailored to business needs, from custom WordPress solutions to RESTful APIs using Django and FastAPI. Delivered responsive, maintainable, and scalable products for clients in education, sports, and event management. Hands-on expertise in backend logic, frontend integration, and database management with PostgreSQL.
 
 ---
 
