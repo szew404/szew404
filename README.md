@@ -1,7 +1,7 @@
 # Franco Gidaszewski
 
 ### 👨🏽‍💻 About me
-As a seasoned software developer with experience in website backend development, I excel in crafting bespoke solutions that empower clients to optimize productivity and streamline operations. Specializing in Python, I am driven by a passion for leveraging cutting-edge technology to deliver tailored software solutions that address the unique needs of businesses.
+As a seasoned software developer, I excel in crafting bespoke solutions that empower clients to optimize productivity and streamline operations. Specializing in Python, I am driven by a passion for leveraging cutting-edge technology to deliver tailored software solutions that address the unique needs of businesses.
 
 ---
 
